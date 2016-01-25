@@ -1,5 +1,7 @@
 <?php
 
+$shape = readline(enter shape: )
+
 function superhardmath($x, $y, $z) {
   $b = $x + $y;
 
@@ -21,4 +23,4 @@ echo areaofrect(5, 5);
 // //if circle ask for radius
 //output calculated area
 
-// TELL THE USER THAT YOU DON'T KNOW HOW TO CALUCULATE
+// TELL THE USER THAT YOU DON'T KNOW
